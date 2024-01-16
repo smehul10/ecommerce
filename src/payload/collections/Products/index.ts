@@ -43,7 +43,6 @@ const Products: CollectionConfig = {
     {
       name: 'title',
       type: 'text',
-      required: true,
     },
     {
       name: 'publishedOn',
